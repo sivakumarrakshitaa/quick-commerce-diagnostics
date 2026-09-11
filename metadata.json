@@ -1,0 +1,6 @@
+{
+  "name": "Quick Commerce Order Delay Analyzer",
+  "description": "Identify operational bottlenecks and delay patterns in real-time quick commerce delivery data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
